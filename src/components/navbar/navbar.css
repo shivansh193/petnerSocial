@@ -1,0 +1,51 @@
+.icons{
+    height: 20px;
+    width: 20px;
+    margin-left:20px;
+}
+.profileIcon{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.searchBoxContainer{
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    margin-top: 10px;
+    padding: 04px;
+    border-radius: 10px;
+
+}
+.iconContainer{
+    display: flex;
+    align-items: center;
+    flex: 0.2;
+   
+}
+.mainNavbar{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+
+}
+.logoContainer{
+    margin-left: 25px;
+}
+.profileContainer{
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+}
+.searchBar{
+    width: 25pc;
+    border-radius: 10px;
+    border: none;
+    padding: 4px;
+    background-color: aliceblue;
+
+}
