@@ -1,0 +1,15 @@
+.leftnotifcontainer{
+    height: 60vh;
+    width: 18pc;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.leftbartop{
+    display: flex;
+    justify-content: space-around;
+}
+.leftbar{
+    flex:1
+    
+}

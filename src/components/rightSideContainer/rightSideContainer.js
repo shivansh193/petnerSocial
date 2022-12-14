@@ -1,8 +1,10 @@
 import React from 'react'
-
+import "./rightSideContainer.css"
 const RightBar = () => {
   return (
-    <div>rightSideContainer</div>
+    <div className='rightbar'>
+      RightBar
+    </div>
   )
 }
 

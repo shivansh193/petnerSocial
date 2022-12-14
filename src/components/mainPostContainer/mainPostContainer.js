@@ -1,8 +1,8 @@
 import React from 'react'
-
+import "./mainPostContainer.css"
 const MainPost = () => {
   return (
-    <div>mainPostContainer</div>
+    <div className='maincontainer'>mainPostContainer</div>
   )
 }
 
